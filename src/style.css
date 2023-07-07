@@ -1,0 +1,71 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Urbanist", sans-serif;
+}
+
+p {
+  color: #BDC0C4;
+}
+
+h2 {
+  font-size: 28px !important;
+  font-weight: 700 !important;
+}
+
+.pt-50 {
+  padding-top: 50px;
+}
+
+.btn-1 {
+  width: 100%;
+  background-color: #3B82F6;
+  border: none;
+  padding: 20px;
+  border-radius: 20px;
+  color: #fff;
+  font-weight: 500;
+  margin: 20px 0px;
+}
+
+.btn-2 {
+  width: 100%;
+  background-color: #EFF6FF;
+  border: none;
+  padding: 20px;
+  border-radius: 20px;
+  color: #3B82F6;
+  font-weight: 500;
+}
+
+.text-part {
+  padding: 50px;
+}
+
+.padd-20 {
+  padding: 20px;
+}
+
+.landing-page img {
+  width: 100%;
+}
+
+.sign-up i {
+  font-size: 31px;
+  color: #3B82F6;
+}
+
+.form-control {
+  border: 2px solid #3B82F6 !important;
+  border-radius: 20px !important;
+  font-weight: 500 !important;
+}
+
+.navbar {
+  background-color: #3B82F6 !important;
+  color: #fff !important;
+}/*# sourceMappingURL=style.css.map */
